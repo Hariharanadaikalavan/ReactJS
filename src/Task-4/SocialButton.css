@@ -1,0 +1,29 @@
+#Box{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2z4DkYxUsEEZhTU1fkZQKfiFDkHHSqsp7xw&usqp=CAU");
+    height:800px;
+    width: 1000px;
+    background-size:cover;
+}
+#inner{
+    padding-top: 35%;
+    
+}
+.btn{
+    font-size: larger;
+    border-radius: 20px;
+    padding: 15px;
+    font-weight:bolder;
+    
+}
+#like{
+    background-color: yellow;
+    box-shadow: -3px -3px yellow;
+    ;
+}
+#share{
+    background-color: blue;
+    box-shadow: 5px -5px blue;
+}
+#comments{
+    box-shadow: 5px 5px whitesmoke;
+}

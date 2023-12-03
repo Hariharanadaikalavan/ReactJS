@@ -1,0 +1,9 @@
+#Outer{
+    background-color:grey;
+    display:inline-block;
+    margin-top: 10%;
+    padding-top: 20px;
+}
+#inner{
+    padding: 100px;
+}

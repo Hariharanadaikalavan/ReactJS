@@ -1,0 +1,26 @@
+#outer{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+#inner{
+    background-color: aqua;
+    display: inline-block;
+    padding: 50px;
+}
+ 
+ #background{
+     background-image: url( https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png);
+     height: 600px;
+     width:600px;
+ }
+ #profile{
+     margin-right: 20px;
+     position: relative;
+     left: 40%;
+     top:1%
+ }
+ #watch{
+     position: relative;
+     left: 40%;
+     top:25%;
+ }
