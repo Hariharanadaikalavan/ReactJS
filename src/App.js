@@ -11,10 +11,6 @@ import { Notiication } from "./Task-5/Notiffication";
  function App() {
   return (
     <>
-{/* <Home/>
-<Congratscards/>
-<League/> */}
-{/* <SocialButton/> */}
 
 <Notiication/>
 </>
